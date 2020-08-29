@@ -9,6 +9,9 @@
   - 여자 5778장
 - csv 파일 데이터 : 파일명, 뼈 나이, 성별
 - 뼈 나이는 최소 1부터 최대 288까지 존재. (단위 : 개월)
+  ![이미지 모음](https://user-images.githubusercontent.com/37574274/91641383-eea77a00-ea5e-11ea-8e4a-15ba9ebb1d88.png)
+- ㅇㅇㅇ
+
 
 ## 모델 구현
 
