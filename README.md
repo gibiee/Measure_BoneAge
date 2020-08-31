@@ -32,7 +32,7 @@
 ![female_2](https://user-images.githubusercontent.com/37574274/91690290-a7c19d80-eba0-11ea-9879-f6bf60ac885b.png)  
   - 최소 loss : 16.5866
   
-### CNN 이후 성별 데이터를 입력하여 학습
+### CNN 이후 성별 데이터를 입력하여 학습 (레이어 )
 ![layer_1](https://user-images.githubusercontent.com/37574274/91690645-46e69500-eba1-11ea-8315-52fabec4d2e8.png)
 ![layer_2](https://user-images.githubusercontent.com/37574274/91690651-48b05880-eba1-11ea-86bf-3f826e0b2d48.png)  
 - 어딘가 잘못된 것 같다
